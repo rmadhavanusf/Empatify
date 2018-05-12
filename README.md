@@ -8,12 +8,13 @@ Music recommended by your Heart
 3. Make sure you have valid API keys for Empatica and Spotify.
     Empatica API Key: https://developer.empatica.com/
     Spotify API Key: https://developer.spotify.com/
-4. Edit MainActivity.java and assign your API keys to `EMPATICA_API_KEY` and `CLIENT_ID` respectively.
+4. Edit `MainActivity.java` and assign your API keys to `EMPATICA_API_KEY` and `CLIENT_ID` respectively.
 5. Build and run the project!
 
 ### Pre-built Binary
 
 Don't feel like doing the setup? We've got you covered! Download and install `Empatify.apk` on your Android device. You can use `adb` to install the APK.
+
     adb install Empatify.apk
 
 ### Dataset
