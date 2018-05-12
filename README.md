@@ -6,8 +6,11 @@ Music recommended by your Heart
 1. Clone/Download this repository.
 2. Open the project in Android Studio.
 3. Make sure you have valid API keys for Empatica and Spotify.
+
     Empatica API Key: https://developer.empatica.com/
+    
     Spotify API Key: https://developer.spotify.com/
+    
 4. Edit `MainActivity.java` and assign your API keys to `EMPATICA_API_KEY` and `CLIENT_ID` respectively.
 5. Build and run the project!
 
